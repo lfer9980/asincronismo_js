@@ -1,0 +1,16 @@
+{
+  "name": "curso_asincronismo_js",
+  "version": "1.0.0",
+  "description": "curso de asincronismo en JS de Platzi",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "lfer9980",
+  "license": "MIT"
+}
