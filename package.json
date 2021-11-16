@@ -12,5 +12,8 @@
     "async"
   ],
   "author": "lfer9980",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
